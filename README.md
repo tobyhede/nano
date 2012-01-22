@@ -1,7 +1,7 @@
 vtha
 ===================================
 
-nano-weight middelware for node.js
+nano-weight middleware for node.js
 
 inspired by rack, connect and fab.
 
